@@ -1,0 +1,4 @@
+#Sun May 19 22:15:30 WAT 2024
+base.0=C\:\\Users\\USER\\Documents\\Development\\MOBILE APPS\\New folder\\Joyful Sound\\joyful_sound_hymnal\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
